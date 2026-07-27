@@ -1,0 +1,4 @@
+Contact: mailto:security@sunsetlounge.example
+Expires: 2027-07-27T12:56:34.049Z
+Preferred-Languages: en, de, fr
+Canonical: https://sunsetlounge.onrender.com/.well-known/security.txt
