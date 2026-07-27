@@ -1,0 +1,26 @@
+{
+  "name": "Sunset Lounge",
+  "short_name": "Sunset",
+  "description": "Sunset Lounge: Five stars, and not one of them loud",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f2f1f8",
+  "theme_color": "#4b4fb0",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
